@@ -30,9 +30,13 @@ This project creates a knowledge graph from SEC filings data, enabling:
 ## Repository Structure
 .
 ├── chat_with_kg.ipynb # Interactive querying of the knowledge graph
+
 ├── construct_kg_from_text.ipynb # Building the knowledge graph from SEC filings
+
 ├── graph_rag_with_cypher.ipynb # RAG implementation with Cypher queries
+
 ├── data/ # Source data directory
+
 └── neo4j.dump # Neo4j database dump file
 
 
